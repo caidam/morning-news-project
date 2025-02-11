@@ -6,15 +6,15 @@
 
 ##
 
-<img src="./misc/mn-prod.png" alt="Description" width=800 >
+<img src="./misc/mn-prod.png" alt="Description" width=600 >
 
-<img src="./misc/mn-preprod.png" alt="Description" width=800 >
+<img src="./misc/mn-preprod.png" alt="Description" width=600 >
 
 ##
 
 - Doc
 
-  - [Technical Doc (in french)](./misc/.pdf)
+  - [Technical Doc (in french)](./misc/public_mn_devops_dossier_projet.pdf)
 
 - Repos
   
