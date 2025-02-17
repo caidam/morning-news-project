@@ -1,6 +1,6 @@
 # Morning News Project
 
-<img align="center" src="./misc/mn-homepage.png" alt="Description" width=500 >
+<p align="center"><img src="./misc/mn-homepage.png" alt="Description" width=500 ></p>
 
 ## Overview
 Morning News is a DevOps-driven project aimed at building a scalable and secure cloud-based news application. The project covers infrastructure automation, CI/CD pipelines, security, and monitoring while following best DevOps practices.
