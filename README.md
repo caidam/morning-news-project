@@ -17,13 +17,13 @@ Morning News is a DevOps-driven project aimed at building a scalable and secure 
 - ** [Technical Doc (in french)](./misc/public_mn_devops_dossier_projet.pdf)** – Full project report
 
 ## Development Cycle and Tooling
-<img src="./misc/mn-tools-devops.png" alt="Description" width=600 >
+<p align="center"><img src="./misc/mn-tools-devops.png" alt="Description" width=600 ></p>
 
 ## Production Architecture
-<img src="./misc/mn-prod.png" alt="Description" width=600 >
+<p align="center"><img src="./misc/mn-prod.png" alt="Description" width=600 ></p>
 
 ## Pre-Production Architecture
-<img src="./misc/mn-preprod.png" alt="Description" width=600 >
+<p align="center"><img src="./misc/mn-preprod.png" alt="Description" width=600 ></p>
 
 ## Repositories
 - [Frontend Repository](#)
